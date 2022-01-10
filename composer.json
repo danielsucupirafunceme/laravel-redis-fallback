@@ -1,6 +1,6 @@
 {
     "name": "danielsucupirafunceme/laravel-redis-fallback",
-    "version": "1.0.4",
+    "version": "1.0.0",
     "description": "Laravel 8 redis cache fallback to array",
     "keywords": ["laravel", "laravel8", "cache", "redis", "array"],
     "license": "MIT",
