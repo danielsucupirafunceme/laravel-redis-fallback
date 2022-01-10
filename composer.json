@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hikarine3\\LaravelRedisFallback\\": "src"
+            "danielsucupirafunceme\\LaravelRedisFallback\\": "src"
         }
     }
 }
