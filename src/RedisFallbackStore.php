@@ -1,6 +1,6 @@
 <?php
 
-namespace Hikarine3\LaravelRedisFallback;
+namespace danielsucupirafunceme\LaravelRedisFallback;
 
 use Illuminate\Cache\RedisStore;
 use Illuminate\Contracts\Redis\Factory as Redis;

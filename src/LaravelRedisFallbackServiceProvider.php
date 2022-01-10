@@ -1,6 +1,6 @@
 <?php
 
-namespace Hikarine3\LaravelRedisFallback;
+namespace danielsucupirafunceme\LaravelRedisFallback;
 
 use Illuminate\Cache\CacheServiceProvider;
 use Illuminate\Cache\MemcachedConnector;
@@ -9,7 +9,7 @@ use Illuminate\Foundation\AliasLoader;
 /**
  * Redis fallback service provider
  *
- * @package Hikarine3
+ * @package danielsucupirafunceme
  * @subpackage LaravelRedisFallback
  */
 class LaravelRedisFallbackServiceProvider extends CacheServiceProvider

@@ -43,7 +43,7 @@ Redisが使えない場合、arrayがcacheの代わりの保存先として使�
 
 ## How to install & set up / インストール・設定方法
 ```
-composer require hikarine3/laravel-redis-fallback;
+composer require danielsucupirafunceme/laravel-redis-fallback;
 ```
 
 (English) Replace the default cache service provider in config/app.php
@@ -57,7 +57,7 @@ composer require hikarine3/laravel-redis-fallback;
 	...
 	//'Illuminate\Cache\CacheServiceProvider::class',
 	...
-	\Hikarine3\LaravelRedisFallback\LaravelRedisFallbackServiceProvider::class
+	\danielsucupirafunceme\LaravelRedisFallback\LaravelRedisFallbackServiceProvider::class
 	...
 )
 ```

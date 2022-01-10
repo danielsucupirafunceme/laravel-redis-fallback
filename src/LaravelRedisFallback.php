@@ -1,6 +1,6 @@
 <?php
 
-namespace Hikarine3\LaravelRedisFallback;
+namespace danielsucupirafunceme\LaravelRedisFallback;
 
 use Exception;
 use Illuminate\Cache\CacheManager;
@@ -10,7 +10,7 @@ use Illuminate\Support\Arr;
 /**
  * Redis fallback
  *
- * @package Hikarine3
+ * @package danielsucupirafunceme
  * @subpackage LaravelRedisFallback
  *
  */

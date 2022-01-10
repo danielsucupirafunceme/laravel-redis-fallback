@@ -1,13 +1,13 @@
 <?php
 
-namespace Hikarine3\LaravelRedisFallback;
+namespace danielsucupirafunceme\LaravelRedisFallback;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
  * Redis fallback facade
  *
- * @package Hikarine3
+ * @package danielsucupirafunceme
  * @subpackage LaravelRedisFallback
  *
  */
